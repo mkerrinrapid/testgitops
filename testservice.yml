@@ -1,4 +1,0 @@
----
-spec:
-  name: testservice
-  image: image/image:v2.4.3
